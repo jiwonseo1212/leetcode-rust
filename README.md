@@ -1,1 +1,1 @@
-# leetcode-rust
+# algorithm_text_rust
