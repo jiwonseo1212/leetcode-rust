@@ -1,1 +1,1 @@
-# algorithm_text_rust
+# Practice LeetCode in Rust
